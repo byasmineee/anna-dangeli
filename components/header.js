@@ -14,7 +14,7 @@ export default function Header() {
         <Link onClick={toggleHeader} href="/"><a className="nav-link" >HOME</a></Link>
         <Link onClick={toggleHeader} href="/#progetti"><a className="nav-link" >ARCHITETTURE</a></Link>
         <Link onClick={toggleHeader} href="/mobili"><a className="nav-link" >ELEMENTI D&apos;ARREDO</a></Link>
-        <a className="nav-link" target="_blank" rel="noreferrer" href="https://www.archimovietv.com/ristrutturazioni/152-annamaria-dangeli">ArchimovieTV</a>
+        <a className="nav-link" target="_blank" rel="noreferrer" href="https://youtu.be/mhGrXAv0n6o">ArchimovieTV</a>
         <div className="nap">
         <a href="tel:3386097288">Tel: 338-6097288</a>
         <a href="mailto:a.dangeli@archiworld.it">Mail: a.dangeli@archiworld.it</a>
